@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "Compa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVeryBigSum", "AVeryBigSum\AVeryBigSum.csproj", "{3F023335-AA0B-40D3-9854-698C66F375B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{3BD63067-F795-48F7-BB95-843811199AC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{3F023335-AA0B-40D3-9854-698C66F375B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F023335-AA0B-40D3-9854-698C66F375B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F023335-AA0B-40D3-9854-698C66F375B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD63067-F795-48F7-BB95-843811199AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD63067-F795-48F7-BB95-843811199AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD63067-F795-48F7-BB95-843811199AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD63067-F795-48F7-BB95-843811199AC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{B28EBAD9-5120-4143-85FF-15135B742441} = {A262F9C1-18FA-40A6-9C8F-6847AA7710DB}
 		{3482C6EE-CF01-4474-B54C-7C5A0903C7BC} = {A262F9C1-18FA-40A6-9C8F-6847AA7710DB}
 		{3F023335-AA0B-40D3-9854-698C66F375B2} = {A262F9C1-18FA-40A6-9C8F-6847AA7710DB}
+		{3BD63067-F795-48F7-BB95-843811199AC7} = {A262F9C1-18FA-40A6-9C8F-6847AA7710DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {13C24C1B-0E6A-41B7-9D43-56C059B6094F}
