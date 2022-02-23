@@ -20,11 +20,11 @@ namespace PlusMinus
             var temp = ReadLine().Split(' ');
             var arr = Array.ConvertAll(temp, Int32.Parse);
 
-            for (int arr_i = 0; arr_i < arr.Length; arr_i++)
+            for (int array = 0; array < arr.Length; array++)
             {
-                if (arr[arr_i] > 0)
+                if (arr[array] > 0)
                     ++positiveNumbers;
-                else if (arr[arr_i] < 0)
+                else if (arr[array] < 0)
                     ++negativeNumbers;
                 else
                     ++zeroNumbers;
